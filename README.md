@@ -16,7 +16,7 @@ Aprovado com 100% de desempenho em todos os requisitos
 <details>
 <summary><strong>Requisitos</strong></summary>
 </br>
-<strong>Requisitos Obrigatórios:</strong> 
+<strong>Requisitos obrigatórios:</strong> 
 </br>
 1. Teste o componente `App.js` </br>
 2. Teste o componente `About.js` </br>
