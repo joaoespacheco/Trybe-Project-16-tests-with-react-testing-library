@@ -4,7 +4,7 @@
 
 Projeto desenvolvido durante o módulo de front-end do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/).
 
-Nesse projeto foram desenvolvidos testes para uma aplicação préviamente desenvolvida e configurada.
+Nesse projeto foram desenvolvidos testes para uma aplicação React préviamente desenvolvida e configurada.
 
 Os teste foram realizados utilizando <strong>Jest</strong> e <strong>React Testing Library</strong>.
 
