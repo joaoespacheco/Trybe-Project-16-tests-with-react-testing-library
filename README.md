@@ -8,6 +8,7 @@ Nesse projeto foram desenvolvidos testes para uma aplicação React préviamente
 
 Os teste foram realizados utilizando <strong>Jest</strong> e <strong>React Testing Library</strong>.
 
+</br>
 <details>
 <summary><strong>Desempenho</strong></summary>
 Aprovado com 100% de desempenho em todos os requisitos
@@ -35,6 +36,7 @@ Aprovado com 100% de desempenho em todos os requisitos
 <summary><strong>Visualizar projeto</strong></summary>
 :construction: Área em construção ! :construction:
 </details>
+</br>
 
 ## 🤹🏽 Habilidades Desenvolvidas:
 * Utilizar os seletores (queries) da React-Testing-Library em testes automatizados;
@@ -42,7 +44,7 @@ Aprovado com 100% de desempenho em todos os requisitos
 * Testar fluxos lógicos assíncronos com a React-Testing-Library;
 * Testar inputs.
 * Implementar testes unitários e de integração
-
+</br>
 
 ## 🧰 Ferramentas:
 * React
@@ -50,7 +52,7 @@ Aprovado com 100% de desempenho em todos os requisitos
 * Jest
 * JavaScript
 * Stryker Mutator
+</br>
 
 ## 📝 Desenvolvido por:
 * [João Emanuel Soares Pacheco](https://github.com/joaoespacheco)
-
