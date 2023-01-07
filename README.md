@@ -74,10 +74,10 @@ Para executar e verificar a cobertura de testes, rode o comando abaixo:
 </br>
 
 ## 🤹🏽 Habilidades Desenvolvidas:
-* Utilizar os seletores (queries) da React-Testing-Library em testes automatizados;
-* Simular eventos com a React-Testing-Library em testes automatizados;
-* Testar fluxos lógicos assíncronos com a React-Testing-Library;
-* Testar inputs.
+* Utilizar os seletores (queries) da React-Testing-Library em testes automatizados
+* Simular eventos com a React-Testing-Library em testes automatizados
+* Testar fluxos lógicos assíncronos com a React-Testing-Library
+* Testar inputs
 * Implementar testes unitários e de integração
 </br>
 
