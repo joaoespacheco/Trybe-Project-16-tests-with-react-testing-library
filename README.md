@@ -4,7 +4,7 @@
 
 Projeto desenvolvido durante o módulo de front-end do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/).
 
-Nesse projeto foram desenvolvidos testes para uma aplicação React préviamente desenvolvida e configurada.
+Nesse projeto foram desenvolvidos testes para uma aplicação React préviamente desenvolvida e configurada pela trybe.
 
 Os teste foram realizados utilizando <strong>Jest</strong> e <strong>React Testing Library</strong>.
 
@@ -12,6 +12,9 @@ Os teste foram realizados utilizando <strong>Jest</strong> e <strong>React Testi
 <details>
 <summary><strong>Desempenho</strong></summary>
 Aprovado com 100% de desempenho em todos os requisitos
+
+![image](https://user-images.githubusercontent.com/99846604/211171749-adf31a89-3501-4734-9186-7a8b6c66754a.png)
+
 </details>
 
 <details>
@@ -34,8 +37,40 @@ Aprovado com 100% de desempenho em todos os requisitos
 
 <details>
 <summary><strong>Visualizar projeto</strong></summary>
-:construction: Área em construção ! :construction:
+
+### Tela principal:
+
+![image](https://user-images.githubusercontent.com/99846604/211171797-695478bd-f99c-4c7c-b0d7-ff5038d4cddb.png)
+
 </details>
+</br>
+
+## ⚙️ Execução
+
+Faça o clone deste repositório com o seguinte comando:
+
+        git clone git@github.com:joaoespacheco/Trybe-Project-16-tests-with-react-testing-library.git
+
+Para exercutar o projeto utilize o comando abaixo para instalar as dependências:
+
+        npm install
+
+Inicie a aplicação com o comando abaixo:
+
+        npm start
+        
+Para exeutar os testes deve-se utilizar o seguinte comando:
+
+        npm test
+
+Caso queira executar um teste específico, rode o comando abaixo:
+
+        npm test <nome-do-arquivo>
+
+Para executar e verificar a cobertura de testes, rode o comando abaixo:
+
+        npm run test-coverage
+
 </br>
 
 ## 🤹🏽 Habilidades Desenvolvidas:
@@ -51,7 +86,6 @@ Aprovado com 100% de desempenho em todos os requisitos
   * React Testing Library (RTL)
 * Jest
 * JavaScript
-* Stryker Mutator
 </br>
 
 ## 📝 Desenvolvido por:
