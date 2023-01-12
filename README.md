@@ -36,13 +36,18 @@ Aprovado com 100% de desempenho em todos os requisitos
 </details>
 
 <details>
-<summary><strong>Visualizar projeto</strong></summary>
+<summary><strong>Imagens do projeto</strong></summary>
 
 ### Tela principal:
 
 ![image](https://user-images.githubusercontent.com/99846604/211171797-695478bd-f99c-4c7c-b0d7-ff5038d4cddb.png)
 
 </details>
+
+</br>
+
+### [👨‍💻 Clique aqui para acessar o projeto em seu navegador](https://pokedex-joaoespacheco.vercel.app/) 
+
 </br>
 
 ## ⚙️ Execução
@@ -51,7 +56,7 @@ Faça o clone deste repositório com o seguinte comando:
 
         git clone git@github.com:joaoespacheco/Trybe-Project-16-tests-with-react-testing-library.git
 
-Para exercutar o projeto utilize o comando abaixo para instalar as dependências:
+Dentro da pasta raiz do projeto, instale as dependências com o seguinte comando:
 
         npm install
 
